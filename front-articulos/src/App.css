@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  background-color: rgb(225, 246, 254);
+}
+
+.container .header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.container .consulta{
+  display: flex;
+  align-items: center;
+}
+
+.table-articulos .icons{
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.table-articulos .icons i{
+  cursor: pointer;
+}
